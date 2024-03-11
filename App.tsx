@@ -1,20 +1,34 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import "react-native-gesture-handler";
+import "@/libs/dayjs";
+
+import { StatusBar } from "expo-status-bar";
+import { GestureHandlerRootView } from "react-native-gesture-handler";
+import {
+  useFonts,
+  OpenSans_400Regular,
+  OpenSans_500Medium,
+  OpenSans_600SemiBold,
+} from "@expo-google-fonts/open-sans";
+
+import { Home } from "@/screens/Home";
+import { SafeAreaProvider } from "react-native-safe-area-context";
 
 export default function App() {
+  const [fontsLoaded] = useFonts({
+    OpenSans_400Regular,
+    OpenSans_500Medium,
+    OpenSans_600SemiBold,
+  });
+
+  if (!fontsLoaded) return;
+
   return (
-    <View style={styles.container}>
-      <Text>Open up App.tsx to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
+    <SafeAreaProvider>
+      <GestureHandlerRootView style={{ flex: 1 }}>
+        <StatusBar style="light" translucent />
+
+        <Home />
+      </GestureHandlerRootView>
+    </SafeAreaProvider>
   );
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
