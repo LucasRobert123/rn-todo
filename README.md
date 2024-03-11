@@ -1,7 +1,7 @@
 <h1 align="center">
-    <img alt="React RocketShoes" src="./github/logo.png" />
+    <img alt="React RocketShoes" src="./github/logo.png" style="height:100px" />
     <br>
-    Save Pass
+   Todo
 </h1>
 
 <h4 align="center">
@@ -10,12 +10,11 @@
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#information_source-como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
 <p align="center">
-  <img alt="gif"  src="./github/todo.gif">
+  <img alt="gif" style="height:600px"  src="./github/todo.gif">
 </p>
 
 ## :rocket: Tecnologias
@@ -30,7 +29,7 @@ Esse projeto foi desenvolvido no com as seguintes tecnologias:
   
 
 ## :memo: Licença
-Este projeto está sob a licença MIT. Veja a [LICENÇA](https://github.com/LucasRobert123/SavePass/blob/master/LICENCE.txt) para mais informações.
+Este projeto está sob a licença MIT. Veja a [LICENÇA](https://github.com/LucasRobert123/rn-todo/blob/main/LICENCE.TXT) para mais informações.
 
 ---
 
