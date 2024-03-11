@@ -14,25 +14,28 @@
 </p>
 
 <p align="center">
-  <img alt="gif" style="height:600px"  src="./github/todo.mp4">
+  <video autoplay>
+    <source src="./github/todo.mp4" type="video/mp4">
+  </video>
+  <!-- <img alt="gif" style="height:600px"  src="./github/todo.mp4"> -->
 </p>
 
 ## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido no com as seguintes tecnologias:
 
--  [React Native](https://reactnative.dev/)
--  [Expo](https://docs.expo.dev/)
--  [React Native Reanimated](https://docs.swmansion.com/react-native-reanimated/)
--  [React Native GestureHandler](https://docs.swmansion.com/react-native-gesture-handler/)
--  [React Native BottomSheet](https://ui.gorhom.dev/components/bottom-sheet/modal/)
-  
+- [React Native](https://reactnative.dev/)
+- [Expo](https://docs.expo.dev/)
+- [React Native Reanimated](https://docs.swmansion.com/react-native-reanimated/)
+- [React Native GestureHandler](https://docs.swmansion.com/react-native-gesture-handler/)
+- [React Native BottomSheet](https://ui.gorhom.dev/components/bottom-sheet/modal/)
 
 ## :memo: Licença
+
 Este projeto está sob a licença MIT. Veja a [LICENÇA](https://github.com/LucasRobert123/rn-todo/blob/main/LICENCE.TXT) para mais informações.
 
 ---
 
 Feito com ❤️ por Lucas Robert 👋🏽 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-robert-de-abreu-4a74ab1b9/)](https://www.linkedin.com/in/lucas-robert-de-abreu-4a74ab1b9/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-robert-de-abreu-4a74ab1b9/)](https://www.linkedin.com/in/lucas-robert-de-abreu-4a74ab1b9/)
