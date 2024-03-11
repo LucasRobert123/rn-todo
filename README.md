@@ -14,10 +14,7 @@
 </p>
 
 <p align="center">
-  <video autoplay>
-    <source src="./github/todo.mp4" type="video/mp4">
-  </video>
-  <!-- <img alt="gif" style="height:600px"  src="./github/todo.mp4"> -->
+  <img alt="gif" style="height:600px"  src="./github/todo.mp4">
 </p>
 
 ## :rocket: Tecnologias
