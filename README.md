@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="React RocketShoes" src="./github/logo.png" />
+    <img alt="React RocketShoes" src="./github/logo.png" style="height:100px" />
     <br>
     Save Pass
 </h1>
@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido no com as seguintes tecnologias:
   
 
 ## :memo: Licença
-Este projeto está sob a licença MIT. Veja a [LICENÇA](https://github.com/LucasRobert123/SavePass/blob/master/LICENCE.txt) para mais informações.
+Este projeto está sob a licença MIT. Veja a [LICENÇA](https://github.com/LucasRobert123/rn-todo/blob/main/LICENCE.TXT) para mais informações.
 
 ---
 
