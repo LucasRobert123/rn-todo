@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img alt="gif" style="height:600px"  src="./github/todo.gif">
+  <img alt="gif" style="height:600px"  src="./github/todo.mp4">
 </p>
 
 ## :rocket: Tecnologias
